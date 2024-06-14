@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashant Bhat</h1>
-<h3 align="center">Web design and development | AI/ML</h3>
+<h3 align="center">Web design and development</h3>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **shashantbhat99@gmail.com**
 
