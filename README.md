@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashant Bhat</h1>
 <h3 align="center">Web design and development | AI/ML</h3>
 
-- 🔭 I’m currently working on **UniNet**<a href></a>
+- 🔭 I’m currently working on <a href="https://github.com/shashantbhat/UniNet-remix">**UniNet**</a>
 
 - 🌱 I’m currently learning **DSA**
 
-- 📫 How to reach me **shashantbhat99@gmail.com | shashantbhat99@gmail.com**
+- 📫 How to reach me **shashantbhat@gmail.com | shashantbhat99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
