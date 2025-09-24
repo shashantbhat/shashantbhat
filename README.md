@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashant Bhat</h1>
 <h3 align="center">Web design and development | AI/ML</h3>
 
-- Currently builing <a href="https://github.com/shashantbhat/indomorisholidays">**Indo Moris Holidays**</a>
+- Currently builing <a href="https://github.com/shashantbhat/indo-moris-holidays">**Indo Moris Holidays**</a>
 
 - 🌱 I’m currently learning **DSA**
 
